@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Java&logoColor=white"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhyeok03)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
