@@ -7,6 +7,8 @@
 작동 원리를 이해하며 직접 구현하는 과정을 좋아합니다.<br>
 현재 **Java와 Spring Boot**를 중심으로 백엔드 개발 역량을 쌓고 있어요.
 
+### 📫 Contact Me
+
 [![Tistory](https://img.shields.io/badge/Tistory-devheo-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://devheo.tistory.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-jj__unhyeok-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jj_unhyeok/)
 <br>
@@ -18,10 +20,9 @@
 
 ## 👨‍💻 About Me
 
-
+- 🚗 자동차를 좋아하며, 기술로 자동차와 일상의 문제를 해결하는 아이디어에 관심이 많습니다.
 - 🌱 **Java · Spring Boot · 자료구조 · 알고리즘**을 공부하고 있습니다.
 - 🧩 작은 문제도 원리를 이해하고 기록하며 해결하려고 합니다.
-- 🚗 자동차를 좋아하며, 기술로 자동차와 일상의 문제를 해결하는 아이디어에 관심이 많습니다.
 - 💬 함께 배우고 성장하는 협업을 좋아합니다.
 
 <br>
